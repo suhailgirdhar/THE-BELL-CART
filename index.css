@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  margin: 5% auto;
+}
+
+button {
+  font-size: 70px;
+  height: 150px;
+  width: 150px;
+  margin: 5% 3%;
+}
+
+
+.a {
+  background-image: url("/Users/suhail/Desktop/WEB-DEVELOPMENT/PROJECTS/DRUM-KIT/Drum-Kit-Starting-Files/images/crash.png");
+}
+
+.b {
+  background-image: url("/Users/suhail/Desktop/WEB-DEVELOPMENT/PROJECTS/DRUM-KIT/Drum-Kit-Starting-Files/images/kick.png")
+}
+
+.c {
+  background-image: url("/Users/suhail/Desktop/WEB-DEVELOPMENT/PROJECTS/DRUM-KIT/Drum-Kit-Starting-Files/images/snare.png")
+}
+
+.d {
+  background-image: url("/Users/suhail/Desktop/WEB-DEVELOPMENT/PROJECTS/DRUM-KIT/Drum-Kit-Starting-Files/images/tom1.png")
+}
+
+.e {
+  background-image: url("/Users/suhail/Desktop/WEB-DEVELOPMENT/PROJECTS/DRUM-KIT/Drum-Kit-Starting-Files/images/tom2.png")
+}
+
+.pressed {
+  box-shadow: 3px 3px lightgrey;
+  opacity: 0.5;
+}
